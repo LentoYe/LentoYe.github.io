@@ -9,6 +9,12 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p className="lento">
+          Edit <code>hello Lento</code> and save to reload.
+        </p>
+        <p className="lento2">
+          Edit <code>hello Lento2</code> and save to reload.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"

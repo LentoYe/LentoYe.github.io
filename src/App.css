@@ -2,8 +2,18 @@
   text-align: center;
 }
 
+.App {
+  background-color: yellow;
+}
+
+.lento {
+  background-color: red;
+  color: #999;
+}
+
 .App-logo {
-  height: 40vmin;
+  height: 40px;
+  background-color: pink;
   pointer-events: none;
 }
 
