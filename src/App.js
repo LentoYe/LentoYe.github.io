@@ -1,15 +1,18 @@
 import logo from './logo.svg';
-import './App.css';
+// import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header" >
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p className="lento">
+        <p class="lento text-red-500">
+          Edit <code>hello Lento</code> and save to reload.
+        </p>
+        <p className="lento underline text-red-500">
           Edit <code>hello Lento</code> and save to reload.
         </p>
         <p className="lento2">
